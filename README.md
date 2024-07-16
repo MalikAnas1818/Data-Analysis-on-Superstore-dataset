@@ -1,5 +1,5 @@
 # Data-Analysis-on-Superstore-dataset
-i did work with several libraries that are mention bewlo:
+i did work with several libraries that are mention below:
 ### pandas
 ### matplotlib
 ### seaborn
